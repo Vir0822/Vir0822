@@ -85,19 +85,10 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 
 ## Contact & quick actions
 <p align="center">
-  <a href="https://www.linkedin.com/in/virginia-villela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   &nbsp;
-  <a href="mailto:virgitzel22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D93F6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-D93F6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   &nbsp;
-
-</p>
-
-<p align="center">
-  <a href="mailto:virgitzel22@gmail.com">📧 Send an email</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/virginia-villela" target="_blank">🔗 Connect on LinkedIn</a>
 </p>
 
 ---
