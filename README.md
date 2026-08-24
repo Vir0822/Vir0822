@@ -10,14 +10,14 @@
 
 <p align="center">
   <em style="color:#374151; max-width:900px; display:block; margin-top:8px;">
-    Smart contract engineering, secure dApp integrations and developer tooling for Ethereum ecosystems — specialising in auditable contract design, exhaustive testing & fuzzing, security hardening with OpenZeppelin, upgradeability strategies and CI/CD for reproducible deployments. I also focus on developer experience for on‑chain / off‑chain workflows and practical scalability patterns.
+    Smart contract engineering, secure dApp integrations and developer tooling for Ethereum ecosystems — specialising in auditable contract design, exhaustive testing & fuzzing, security hardeni[...]
   </em>
 </p>
 
 ---
 
 ## About
-I am a blockchain developer with a security-first mindset. I build and review smart contracts, develop rigorous automated test suites, and design integration flows that connect on‑chain logic with production-grade web applications. My work emphasizes clarity, auditability and reproducibility.
+I am a blockchain developer with a security-first mindset. I build and review smart contracts, develop rigorous automated test suites, and design integration flows that connect on‑chain logic wi[...]
 
 <details>
 <summary><strong>Professional approach</strong></summary>
@@ -25,7 +25,7 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 - Security-first: minimize trusted surfaces, least-privilege and defensive coding.  
 - Test-driven: unit, property and fuzz testing using Foundry.  
 - Audit-aware: clear interfaces, thorough documentation and use of vetted libraries (OpenZeppelin).  
-- CI/CD oriented: reproducible builds, automated checks and deployment gates.  
+- CI/CD oriented: reproducible builds, automated checks and deployment gates.
 </details>
 
 ---
@@ -93,7 +93,7 @@ I am a blockchain developer with a security-first mindset. I build and review sm
     <img src="https://img.shields.io/badge/Email-D93F6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img alt="Open to opportunities" src="https://img.shields.io/badge/Availability-Open%20to%20opportunities-00C2A8?style=for-the-badge" />
+
 </p>
 
 <p align="center">
