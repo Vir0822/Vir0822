@@ -52,7 +52,7 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 </p>
 
 <p align="center" style="color:#6b7280">
-  Currently focused on blockchain security with a specialization in smart contract auditing. I conduct in-depth EVM and Yul analysis, design and execute robust test suites and fuzzing campaigns with Foundry, and build proofs-of-concept and developer tooling using Python and TypeScript/JavaScript to reproduce, demonstrate, and help mitigate vulnerabilities.
+  Focused on blockchain security and smart contract auditing: deep EVM/Yul analysis, Foundry-based testing and fuzzing, and PoC/tooling in Python and TypeScript/JavaScript.
 </p>
 
 ---
@@ -98,4 +98,5 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 
 ---
 
-Thank you for visiting my profile — I update this page as my public work and contributions become available.
+## Thank you
+<p align="center">Thank you for visiting my profile — I update this page as my public work and contributions become available.</p>
