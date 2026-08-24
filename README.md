@@ -30,7 +30,7 @@ Soy una desarrolladora blockchain con mentalidad de seguridad. Desarrollo y revi
 <details>
 <summary><strong>Professional approach / Enfoque profesional</strong></summary>
 
-- Security-first: minimize trusted surfaces, least-privilege and defensive coding.  
+- Security-first: minimize trusted surfaces, apply least-privilege and defensive coding.  
 - Test-driven: unit, property and fuzz testing using Foundry.  
 - Audit-aware: clear interfaces, thorough documentation and use of vetted libraries (OpenZeppelin).  
 - CI/CD oriented: reproducible builds, automated checks and deployment gates.
