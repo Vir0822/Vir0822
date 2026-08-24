@@ -40,18 +40,20 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 
 ---
 
-## Currently mastering
+## Enfoque — Seguridad y Auditoría de Smart Contracts
 <p align="center">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-7A5CFF?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;
+  <img alt="EVM" src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge" />&nbsp;
+  <img alt="Yul" src="https://img.shields.io/badge/Yul-00ADEF?style=for-the-badge" />&nbsp;
+  <img alt="Foundry" src="https://img.shields.io/badge/Foundry-9B51E0?style=for-the-badge" />&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-7A5CFF?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;
-  <img alt="Foundry" src="https://img.shields.io/badge/Foundry-9B51E0?style=for-the-badge" />&nbsp;
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<p align="center" style="color:#6b7280">Focused on production-ready Solidity development, robust testing with Foundry, and strong systems programming fundamentals.</p>
+<p align="center" style="color:#6b7280">
+  Actualmente enfocada en ciberseguridad blockchain y especialización en auditoría de smart contracts: análisis a nivel EVM/Yul, pruebas y fuzzing con Foundry, y PoC/tooling en Python y JavaScript/TypeScript.
+</p>
 
 ---
 
