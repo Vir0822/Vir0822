@@ -76,7 +76,7 @@ Soy una desarrolladora blockchain con mentalidad de seguridad. Desarrollo y revi
 </p>
 
 <p align="center" style="color:#6b7280">
-  **English:** Currently focused on blockchain security and specialization in smart contract auditing: EVM/Yul-level analysis, testing and fuzzing with Foundry, and PoC/tooling in Python and JavaScript/TypeScript.
+  **English:** Currently focusing on blockchain security and specializing in smart contract auditing. I perform EVM/Yul‑level analysis, develop and execute tests and fuzzers with Foundry, and create proofs‑of‑concept and developer tooling using Python and JavaScript/TypeScript.
 
   **Español:** Actualmente enfocada en seguridad blockchain y especialización en auditoría de smart contracts: análisis a nivel EVM/Yul, pruebas y fuzzing con Foundry, y PoC/tooling en Python y JavaScript/TypeScript.
 </p>
