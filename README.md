@@ -40,7 +40,7 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 
 ---
 
-## Enfoque — Seguridad y Auditoría de Smart Contracts
+## Focus — Blockchain Security & Smart Contract Auditing
 <p align="center">
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-7A5CFF?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;
   <img alt="EVM" src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge" />&nbsp;
@@ -52,7 +52,7 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 </p>
 
 <p align="center" style="color:#6b7280">
-  Actualmente enfocada en ciberseguridad blockchain y especialización en auditoría de smart contracts: análisis a nivel EVM/Yul, pruebas y fuzzing con Foundry, y PoC/tooling en Python y JavaScript/TypeScript.
+  Currently focused on blockchain security and specialization in smart contract auditing: EVM/Yul-level analysis, testing and fuzzing with Foundry, and PoC/tooling in Python and JavaScript/TypeScript.
 </p>
 
 ---
