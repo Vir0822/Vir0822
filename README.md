@@ -88,8 +88,6 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 
 ---
 
-## Contact & quick actions
-
 ---
 
 ## Thank you
