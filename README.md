@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Colorful header (graphic only) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&colorStart=7928CA&colorEnd=FF0080&animation=twinkling" alt="colorful header" />
+  <!-- Animated colorful header -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&colorStart=0F172A&colorEnd=7C3AED&animation=twinkling" alt="animated header" />
 </p>
 
 <h1 align="center">
