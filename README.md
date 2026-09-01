@@ -10,14 +10,14 @@
 
 <p align="center">
   <em style="color:#374151; max-width:900px; display:block; margin-top:8px;">
-    Smart contract engineering, secure dApp integrations and developer tooling for Ethereum ecosystems — specialising in auditable contract design, exhaustive testing & fuzzing, and gas-efficient, production-ready implementations.
+    Smart contract engineering, secure dApp integrations and developer tooling for Ethereum ecosystems — specialising in auditable contract design, exhaustive testing & fuzzing, and gas-efficien[...]
   </em>
 </p>
 
 ---
 
 ## About
-I am a blockchain developer with a security-first mindset. I build and review smart contracts, craft rigorous automated test suites, and design integration flows that connect on‑chain logic with off‑chain services to deliver secure, auditable, and maintainable systems.
+I am a blockchain developer with a security-first mindset. I build and review smart contracts, craft rigorous automated test suites, and design integration flows that connect on‑chain logic with[...]
 
 <details>
 <summary><strong>Professional approach</strong></summary>
@@ -89,12 +89,6 @@ I am a blockchain developer with a security-first mindset. I build and review sm
 ---
 
 ## Contact & quick actions
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Email-D93F6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  &nbsp;
-</p>
 
 ---
 
