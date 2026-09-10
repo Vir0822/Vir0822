@@ -51,7 +51,10 @@ My pinned repos below (**Calculator-Solidity**, **ERC-2O-Token**, **Crypto-Bank*
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-C9A0A8?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-C9A0A8?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-C9A0A8?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-C9A0A8?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-C9A0A8?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
